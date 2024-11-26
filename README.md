@@ -60,7 +60,8 @@ The script (`SPY_call_option_M30`) performs the following tasks:
 
 ## **5. Backtest Results**
 The following backtest results demonstrate the performance of the SPY_call_option_M30_v5 strategy under simulated conditions.
-![Backtest Summary](results/Strategy Tester_ test.pdf)
+
+![Backtest Summary](results/Strategy_Tester.pdf)
 
 ---
 
