@@ -45,7 +45,7 @@ The script (`SPY_call_option_M30`) performs the following tasks:
 ## **Usage Instructions**
 
 ### **1. Install the Script**
-- Copy `SPY_call_option_M30_v5` to the `MQL4/Experts` folder in your MT4 directory.
+- Copy `SPY_call_option_M30` to the `MQL4/Experts` folder in your MT4 directory.
 
 ### **2. Compile the Script**
 - Open MetaEditor, load the script, and compile it to ensure there are no errors.
