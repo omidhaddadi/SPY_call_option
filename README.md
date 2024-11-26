@@ -18,7 +18,7 @@ This repository contains an MQL4 script for MetaTrader 4 (MT4), designed to simu
 ---
 
 ## **Code Overview**
-The script (`SPY_call_option_M30_v5`) performs the following tasks:
+The script (`SPY_call_option_M30`) performs the following tasks:
 
 ### **1. Initializes Trading Parameters**
 - Defines trade-specific variables:
